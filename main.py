@@ -22,7 +22,12 @@ print("The directory where your services will be installed is: " + RootDir)
 time.sleep(1)
 
 # Determines Timezone
-print()
+customTimezone = input("Would you like to use a custom timezone? If not, it will be set to your systems time zone (reccommended) (y/n)")
+if customTimezone == n:
+    timezone = open("/etc/timezone", "r").readline()
+else:
+    print ("Please refer to this guide: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones")
+    timezone = input("Please enter your timezone: ")
 
 # Opens a new file called "docker-compose.yml" in write mode
 compose = open('docker-compose.yml', 'w')
