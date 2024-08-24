@@ -1,4 +1,4 @@
-![](images/LogoGitBG.png)
+![](Images/LogoGitBG.png)
 
 # Instahost (In Development)
 
