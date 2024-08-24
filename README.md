@@ -8,7 +8,6 @@ Planned features:
 - Support for hard linking
 
 **In-depth documentation can be found here:**
-
 <a href="https://instahost.github.io/instahostdocs.github.io/" onclick="window.open('https://instahost.github.io/instahostdocs.github.io//', '_self');">https://instahost.github.io/instahostdocs.github.io/</a>
 
 Documentation will include the following:
