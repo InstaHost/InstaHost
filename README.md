@@ -21,7 +21,7 @@ Automated Media Server
 - Readarr
 - Jellyseerr
 - Overseerr
-- cloudsolverr
+- Cloudsolverr
 
 WebUI Torrent Client
 - qBittorrent
