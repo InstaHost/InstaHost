@@ -9,6 +9,29 @@ Planned features:
 - Directory management (create required dirs and manage permissions for them)
 - Support for hard linking
 
+Supported Services:
+
+Automated Media Server
+- Homarr
+- Prowlarr
+- Jackett
+- Radarr
+- Sonarr
+- Lidarr
+- Readarr
+- Jellyseerr
+- Overseerr
+- cloudsolverr
+
+WebUI Torrent Client
+- qBittorrent
+- Deluge
+- Transmission
+
+VPN
+- Wireguard
+- OpenVPN
+
 **In-depth documentation can be found here:**
 <a href="https://instahost.github.io/instahostdocs.github.io/" onclick="window.open('https://instahost.github.io/instahostdocs.github.io//', '_self');">Instahost Documentation</a>
 
