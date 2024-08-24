@@ -11,8 +11,10 @@ Planned features:
 
 Supported Services:
 
+Web Docker Manager
+- Homarr (Recommended for Automated Media Server)
+
 Automated Media Server
-- Homarr
 - Prowlarr
 - Jackett
 - Radarr
