@@ -8,7 +8,7 @@ Planned features:
 - Support for hard linking
 
 **In-depth documentation can be found here:**
-[https://github.com/InstaHost/InstaHost](url)
+[https://instahost.github.io/instahostdocs.github.io/](url)
 
 Documentation will include the following:
 - Quickstart setup
