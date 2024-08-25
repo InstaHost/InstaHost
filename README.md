@@ -25,14 +25,18 @@ Automated Media Server
 - Overseerr
 - Cloudsolverr
 
+VPN
+- Wireguard
+- OpenVPN
+
+WebUI Clients
+- VSCode Server
+
 WebUI Torrent Client
 - qBittorrent
 - Deluge
 - Transmission
 
-VPN
-- Wireguard
-- OpenVPN
 
 **In-depth documentation can be found here:**
 <a href="https://instahost.github.io/instahostdocs.github.io/" onclick="window.open('https://instahost.github.io/instahostdocs.github.io//', '_self');">Instahost Documentation</a>
